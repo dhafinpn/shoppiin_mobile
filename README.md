@@ -42,16 +42,6 @@ Column(
 ```
 
 ```dart
-Column(
-  children: [
-    Text("Widget 1"),
-    Text("Widget 2"),
-    Text("Widget 3"),
-  ],
-)
-```
-
-```dart
 Row(
     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
     children: [
